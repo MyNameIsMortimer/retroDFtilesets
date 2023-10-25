@@ -1,5 +1,6 @@
 # retroDFtilesets
 Tile Sets for Dwarf Fortress inspired by older computer systems.
+Each Tile Set has an accompanying color scheme to further mimic look of the older system.
 
 ## Current TileSets
 * Pawn64 : a Commodore 64 inspired tileset that mimics the feel of the Commodore character set and games while adding subleties in color to make more legible and usable within Dwarf Fortress.
